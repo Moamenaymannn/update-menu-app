@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733381441 source:/home/moamen/Desktop/Day-1_c++/Day_2/Menu/main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<vector>
+	<limits>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+
